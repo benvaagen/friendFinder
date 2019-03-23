@@ -3,7 +3,7 @@ var friends = [
       name: "Dan Levy",
       photo:
         "https://m.media-amazon.com/images/M/MV5BNWEyOGFlNzktMWQyNC00NTA0LWJjOTUtMjQzMmFjMTllOGY0XkEyXkFqcGdeQXVyMTY0MTA3MDQ@._V1_UY317_CR174,0,214,317_AL_.jpg",
-      scores: [4, 2, 5, 1, 3, 2, 2, 1, 3, 2]
+      scores: [5, 3, 3, 5, 5, 5, 5, 5, 5, 5]
     },
     {
       name: "Dustin Miligan",
