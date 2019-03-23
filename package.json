@@ -1,8 +1,8 @@
 {
-  "name": "friendfinder",
+  "name": "love-link",
   "version": "1.0.0",
-  "description": "a compatibility-based \"FriendFinder\" application",
-  "main": "server.js",
+  "description": "node.js & express compatablity quiz",
+  "main": "html-routes.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "node server.js"
