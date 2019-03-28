@@ -1,13 +1,38 @@
 .jumbotron {
-    background: #929292;
+   color: white;
+    background-color: crimson;
+    text-align: center;
+    padding: 2rem;
+    margin-top: 2rem;
+    
   }
   .logo {
     display: block;
     margin-left: auto;
     margin-right: auto;
   }
-  .body {
-    background: #e4ebf1;
+
+  h1, h2{
+    color: black;
+    -webkit-text-fill-color: white; /* Will override color (regardless of order) */
+    -webkit-text-stroke-width: 1px;
+    -webkit-text-stroke-color: black;
+  }
+
+  h3, h4{
+    color: white;
+  }
+
+  .submit {
+    background-color: white;
+  }
+
+  .btn {
+    background-color: #f0ad4e;
+  }
+  
+  body {
+    background-color: black;
   }
   hr {
     border-color: inherit;
